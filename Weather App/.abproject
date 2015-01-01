@@ -1,0 +1,37 @@
+{
+  "ProjectName": "Weather App",
+  "ProjectGuid": "dfba2b5a-10ba-4c5b-9600-1b16329214a7",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.WeatherApp",
+  "DisplayName": "Weather App",
+  "Author": "",
+  "Description": "",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.5.0",
+  "AndroidPermissions": [],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{e031fc87-eb07-4973-a9bc-ba6e0427366c}",
+  "WP8ProductID": "{b162d7ab-7f4f-45b9-aee3-c46028c3d36c}",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
